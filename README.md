@@ -1,5 +1,4 @@
 # JUCE_FilmstripToggleButton
-====
 
 Custom toggle button using filmstrip image for JUCE C++ Framework
 
