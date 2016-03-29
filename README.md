@@ -1,29 +1,16 @@
 # JUCE_FilmstripToggleButton
-
-
-JUCE_FilmstripToggleButton
 ====
 
-Custom Toggle Button for JUCE C++ Framework
-
-## Description
+Custom toggle button using filmstrip image for JUCE C++ Framework
 
 ## Demo
-
-## VS. 
 
 ## Requirement
 
 ## Usage
 
-## Install
-
 ## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[COx2](https://github.com/COx2)
